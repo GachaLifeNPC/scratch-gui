@@ -1,9 +1,4 @@
-import classNames from 'classnames';
-import PropTypes from 'prop-types';
-import React from 'react';
-import ReactDOM from 'react-dom';
-import {connect} from 'react-redux';
-import {compose} from 'redux';
+
 
 import Box from '../components/box/box.jsx';
 import GUI from '../containers/gui.jsx';
